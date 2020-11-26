@@ -1,0 +1,9 @@
+name: TestPlugin
+description: lalalalalalal!
+version: 1.0
+main: RobertoFretel\TestPlugin\Main
+api: 3.16.0
+
+commands:
+    test:
+        description: non fa niente... lol
