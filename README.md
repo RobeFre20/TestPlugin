@@ -7,4 +7,4 @@ Descrizione:
   -> Aggiunge/Rimuove una spada di ferro dall' inventario
 
 Questo plugin funziona solo nel gioco:
-<img src=""/>
+<img src="https://github.com/RobeFre20/TestPlugin/blob/main/terminale.PNG"/>
